@@ -63,8 +63,12 @@ Adjunto link de un video del funcionamiento de la prueba sin el cambio de endpoi
 https://drive.google.com/file/d/1Cv3lDldbuBM_Ghz7-H9b8WPAO2YU_ZkP/view?usp=sharing
 
 
-Adjunto link de un video del funcionamiento de la prueba con el cambio de endpoints.
+Adjunto link de un video del funcionamiento de la prueba con el cambio de endpoints en device.
 
 https://drive.google.com/file/d/1iH6W0gexF7KcKAdb1LdsLpQXPgs1--nd/view?usp=sharing
+
+Adjunto link de un video del funcionamiento de la prueba con el cambio de endpoints en simulador.
+https://drive.google.com/file/d/1O15nJ6AbxrLSgSjKav-ZIiLEksiHLHbm/view?usp=sharing
+
 Muchas gracias. 
 
